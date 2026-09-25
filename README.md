@@ -10,7 +10,7 @@ To clone, set up, and deploy LEAD locally or on a remote cluster, follow these s
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/lead-classifier.git
+git clone https://github.com/mitkeng/leadk.git
 cd lead-classifier
 ```
 
