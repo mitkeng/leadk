@@ -74,7 +74,7 @@ Predict kinase target affinities for newly designed target molecules with active
 *   `--checkpoint` (Optional): String. Target model parameters checkpoint path (Default: `models/lead_checkpoint.pth`).
 *   `--transforms` (Optional): String. Saved preprocessing transform configurations path (Default: `models/transforms.pkl`).
 *   `--output` (Optional): String. Filepath to store the prediction log results (Default: `predictions_output.csv`).
-*   `--penalty_max` (Optional): Float. Maximum temperature penalty factor allowed by the Shield Agent (Default: `6.0`).
+*   `--penalty_max` (Optional): Float. Maximum temperature penalty factor allowed (Default: `6.0`).
 
 #### Inference CLI Command Example:
 ```bash
