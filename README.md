@@ -4,7 +4,7 @@ LEAD is a deep-learning multi-task framework designed to accurately predict drug
 
 ---
 
-## 🛠️ GitHub Repository & Quick Start Instructions
+## 🛠️ Quick Start Instructions
 
 To clone, set up, and deploy LEAD locally or on a remote cluster, follow these steps:
 
