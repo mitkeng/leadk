@@ -1,4 +1,5 @@
-<img width="230" height="265" alt="image" src="https://github.com/user-attachments/assets/b1a44224-9e23-4fc7-a843-9c3ebac98535" />
+<img width="230" height="260" alt="image" src="https://github.com/user-attachments/assets/5176a8d0-0b69-47ba-bd90-5e16c2b16fc4" />
+
 
 # LEAD-k: Latent Error Adversarial Discriminator for _kinase_
 
