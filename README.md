@@ -1,8 +1,8 @@
-<img width="255" height="275" alt="image" src="https://github.com/user-attachments/assets/bd7f0867-f767-4553-abf9-890d72bf14a1" />
+<img width="230" height="265" alt="image" src="https://github.com/user-attachments/assets/b1a44224-9e23-4fc7-a843-9c3ebac98535" />
 
 # LEAD-k: Latent Error Adversarial Discriminator for _kinase_
 
-LEAD is a deep-learning multi-task framework designed to accurately predict drug targets for novel compounds. The architecture features a dynamic Autoencoder (with multi-decoder latent reconstruction) and a dual-discriminator  that calibrates classification confidence and manages out-of-distribution (OOD) risk in novel chemical spaces.
+LEAD-k is a deep-learning multi-task framework designed to accurately predict drug targets for novel compounds. The architecture features a dynamic Autoencoder (with multi-decoder latent reconstruction) and a dual-discriminator  that calibrates classification confidence and manages out-of-distribution (OOD) risk in novel chemical spaces.
 
 ---
 
